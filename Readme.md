@@ -99,15 +99,3 @@ Accédez aux paramètres via le bouton de menu en haut à droite.
 
 ---
 
-## Prochaines Étapes
-
-Parlez à Manus AI à tout moment pour demander des modifications ou ajouter des fonctionnalités.
-
-**Suggestions :**
-- Intégrer un vrai backend avec base de données
-- Ajouter des notifications par email
-- Implémenter un système de paiement
-- Créer une application mobile
-- Ajouter des avis avec photos
-
-Commencez dès maintenant à créer vos premiers rendez-vous ! 🎉
